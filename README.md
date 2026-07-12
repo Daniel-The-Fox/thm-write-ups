@@ -1,2 +1,2 @@
 # thm-write-ups
-Write-Ups for TryHackMe.com (THM)
+Write-Ups for [TryHackMe Challenges (THM rooms)](https://tryhackme.com/challenges).
